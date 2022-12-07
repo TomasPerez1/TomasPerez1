@@ -8,7 +8,6 @@
 
 - 📄 I am a person whose environment and professional life was focused on sports until a year ago 
 when I made a 360° turn and I was able to find my place in a space that  always been present and I loved it, the world of technology.
-<br>
 I consider myself a person with the ability to manage wise decision making, generate effective problem solving, lead my team to the objectives already set, identify what the client expects as a product and carry it out.
 
 - ➰ Proyects :
