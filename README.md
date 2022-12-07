@@ -14,10 +14,10 @@ I consider myself a person with the ability to manage wise decision making, gene
 - ➰ Proyects :
   > Properties & You
 <p><img align="center" src="./images/pfff (2).PNG"alt="no cargo" /></p>
-<p><img align="center" src="./images/pf1.PNG" alt="no cargo" /></p>
-<p><img align="center" src="./images/pf3.PNG" alt="no cargo" /></p>
-<p><img align="center" src="./images/pf4.PNG" alt="no cargo" /></p>
-<p><img align="center" src="./images/sisi.PNG" alt="no cargo" /></p>
+<p><img align="center" src="./images/pf1.png" alt="no cargo" /></p>
+<p><img align="center" src="./images/pf3.png" alt="no cargo" /></p>
+<p><img align="center" src="./images/pf4.png" alt="no cargo" /></p>
+<p><img align="center" src="./images/sisi.png" alt="no cargo" /></p>
 
 - 📫 How to reach me **tomasperez.henry@gmail.com**
 
