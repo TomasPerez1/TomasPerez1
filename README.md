@@ -14,7 +14,7 @@ I consider myself a person with the ability to manage wise decision making, gene
   > Properties & You
 <p>
   <a href=""><img align="center" width="380px" src="./images/pfff.PNG" alt="no cargo"/></a>
-  <a href=""><img align="center" width="380px" src="./images/pf2.png" alt="no cargo" /></a>
+  <a href=""><img align="center" width="380px" src="./images/Pf2.PNG" alt="no cargo" /></a>
   <a href=""><img align="center" width="380px" src="./images/pf3.png" alt="no cargo" /></a>
   <a href=""><img align="center" width="380px" src="./images/Pf4.png" alt="no cargo" /></a>
 </p>
