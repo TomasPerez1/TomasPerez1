@@ -13,18 +13,18 @@ I consider myself a person with the ability to manage wise decision making, gene
 - ➰ My Proyects 
   > Properties & You
 <p>
-  <a href=""><img align="center" width="380px" src="./images/pfff.PNG" alt="no cargo"/></a>
-  <a href=""><img align="center" width="380px" src="./images/esta.png" alt="no cargo" /></a>
-  <a href=""><img align="center" width="380px" src="./images/pf3.png" alt="no cargo" /></a>
-  <a href=""><img align="center" width="380px" src="./images/Pf4.png" alt="no cargo" /></a>
+  <a href="https://github.com/TomasPerez1/Proyecto-Final.git"><img align="center" width="380px" src="./images/pfff.PNG" alt="no cargo"/></a>
+  <a href="https://github.com/TomasPerez1/Proyecto-Final.git"><img align="center" width="380px" src="./images/esta.png" alt="no cargo" /></a>
+  <a href="https://github.com/TomasPerez1/Proyecto-Final.git"><img align="center" width="380px" src="./images/pf3.png" alt="no cargo" /></a>
+  <a href="https://github.com/TomasPerez1/Proyecto-Final.git"><img align="center" width="380px" src="./images/Pf4.png" alt="no cargo" /></a>
 </p>
 
   > Countribary
 <p>
-  <a href=""><img align="center" width="380px" src="./images/pi1.PNG" alt="no cargo"/></a>
-  <a href=""><img align="center" width="380px" src="./images/pi2.PNG" alt="no cargo" /></a>
-  <a href=""><img align="center" width="380px" src="./images/pi3.PNG" alt="no cargo" /></a>
-  <a href=""><img align="center" width="380px" src="./images/pi4.PNG" alt="no cargo" /></a>
+  <a href="https://github.com/TomasPerez1/PI-countries-por-Tom-s-P-rez.git"><img align="center" width="380px" src="./images/pi1.PNG" alt="no cargo"/></a>
+  <a href="https://github.com/TomasPerez1/PI-countries-por-Tom-s-P-rez.git"><img align="center" width="380px" src="./images/pi2.PNG" alt="no cargo" /></a>
+  <a href="https://github.com/TomasPerez1/PI-countries-por-Tom-s-P-rez.git"><img align="center" width="380px" src="./images/pi3.PNG" alt="no cargo" /></a>
+  <a href="https://github.com/TomasPerez1/PI-countries-por-Tom-s-P-rez.git"><img align="center" width="380px" src="./images/pi4.PNG" alt="no cargo" /></a>
 </p>
 
 - 📫 How to reach me **tomasperez.henry@gmail.com**
