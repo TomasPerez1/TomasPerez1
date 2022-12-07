@@ -10,13 +10,22 @@
 when I made a 360° turn and I was able to find my place in a space that  always been present and I loved it, the world of technology.
 I consider myself a person with the ability to manage wise decision making, generate effective problem solving, lead my team to the objectives already set, identify what the client expects as a product and carry it out.
 
-- ➰ Proyects :
+- ➰ My Proyects 
   > Properties & You
-<p><img align="center" src="./images/pfff (2).png"alt="no cargo" /></p>
-<p><img align="center" src="./images/pf1.png" alt="no cargo" /></p>
-<p><img align="center" src="./images/pf3.png" alt="no cargo" /></p>
-<p><img align="center" src="./images/Pf4.png" alt="no cargo" /></p>
-<p><img align="center" src="./images/sisi.png" alt="no cargo" /></p>
+<p>
+  <a href=""><img align="center" width="380px" src="./images/pfff.PNG" alt="no cargo"/></a>
+  <a href=""><img align="center" width="380px" src="./images/pf2.png" alt="no cargo" /></a>
+  <a href=""><img align="center" width="380px" src="./images/pf3.png" alt="no cargo" /></a>
+  <a href=""><img align="center" width="380px" src="./images/Pf4.png" alt="no cargo" /></a>
+</p>
+
+  > Countribary
+<p>
+  <a href=""><img align="center" width="380px" src="./images/pi1.PNG" alt="no cargo"/></a>
+  <a href=""><img align="center" width="380px" src="./images/pi2.PNG" alt="no cargo" /></a>
+  <a href=""><img align="center" width="380px" src="./images/pi3.PNG" alt="no cargo" /></a>
+  <a href=""><img align="center" width="380px" src="./images/pi4.PNG" alt="no cargo" /></a>
+</p>
 
 - 📫 How to reach me **tomasperez.henry@gmail.com**
 
