@@ -27,7 +27,7 @@ I consider myself a person with the ability to manage wise decision making, gene
   <a href="https://github.com/TomasPerez1/PI-countries-por-Tom-s-P-rez.git"><img align="center" width="380px" src="./images/pi4.PNG" alt="no cargo" /></a>
 </p>
 
-- 📫 How to reach me **tomasperez.henry@gmail.com**
+- 📫 How to reach me **tomas.perez.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
