@@ -4,7 +4,7 @@
 
 <h3 align="center">Full Stack Developer from Bariloche❄️🌄, Argentina</h3>
 
-- 🌱 I’m currently learning  **Typescript** 
+- 🌱 I’m currently learning  **Nest.js** 
 
 - 📄 I am a person whose environment and professional life was focused on sports until a year ago 
 when I made a 360° turn and I was able to find my place in a space that  always been present and I loved it, the world of technology.
