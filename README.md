@@ -1,7 +1,13 @@
 <h1 align="center">Full Stack Developer from Bariloche❄️🌄,Argentina</h1>
 
 <h2 align="start">
-I'm Tomás, a Full Stack developer passionate about technology, continuous learning and creating innovative solutions. I specialize in designing and building robust and scalable web applications. My focus is not only on the code, but also on the impact that the solutions can generate. I combine my technical expertise with interpersonal skills that allow me to lead teams, communicate complex ideas effectively and collaborate in agile environments under the SCRUM methodology. Among my technical skills on the frontend, I develop intuitive and responsive interfaces with React, Next.js, and Tailwind CSS to deliver modern and functional results. On the backend, my focus is on building solid and secure APIs with technologies like Node.js, Nest.js, and Express , always complementing these solutions with well-structured relational databases using PostgreSQL/Mysql, plus an ORM like Prisma/Sequelize to optimize the data flow. My English level is Upper Intermediate (B2) allowing me to communicate effectively with international teams. Beyond the technical, I am an analytical, creative and problem-solving oriented person. I enjoy challenges, because each one represents an opportunity to learn and grow, both professionally and personally.
+I'm Tomás, a <strong>Full Stack Developer</strong> passionate about technology, continuous learning and creating innovative solutions. I specialize in designing and building robust and scalable web applications.
+<br/>
+My focus is not only on the code, but also on the impact that the solutions can generate. I combine my technical expertise with interpersonal skills that allow me to lead teams, communicate complex ideas effectively and collaborate in agile environments under the <strong>SCRUM methodology<</strong>.
+<br/>
+Among my technical skills on the frontend, I develop intuitive and responsive interfaces with <strong>React, Next.js, and Tailwind CSS</strong> to deliver modern and functional results. On the backend, my focus is on building solid and secure APIs with technologies like <strong>Node.js, Nest.js, and Express</strong>, always complementing these solutions with well-structured relational databases using <strong>PostgreSQL/Mysql</strong>, plus an ORM like <strong>Prisma/Sequelize<strong> to optimize the data flow. 
+<br/>
+My English level is <strong>Upper Intermediate (B2)</strong> allowing me to communicate effectively with international teams. Beyond the technical, I am an analytical, creative and problem-solving oriented person. I enjoy challenges, because each one represents an opportunity to learn and grow, both professionally and personally.
 <br/>
 I am looking for a job in the IT market as a developer, which will allow me to continue growing in this beautiful world of programming 🚀.
 </h2>
