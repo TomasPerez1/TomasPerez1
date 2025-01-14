@@ -1,19 +1,19 @@
-<h3 align="center">Full Stack Developer from Bariloche❄️🌄,Argentina</h3>
+<h1 align="center">Full Stack Developer from Bariloche❄️🌄,Argentina</h1>
 
-<h4 align="center">
+<h2 align="start">
 I'm Tomás, a Full Stack developer passionate about technology, continuous learning and creating innovative solutions. I specialize in designing and building robust and scalable web applications. My focus is not only on the code, but also on the impact that the solutions can generate. I combine my technical expertise with interpersonal skills that allow me to lead teams, communicate complex ideas effectively and collaborate in agile environments under the SCRUM methodology. Among my technical skills on the frontend, I develop intuitive and responsive interfaces with React, Next.js, and Tailwind CSS to deliver modern and functional results. On the backend, my focus is on building solid and secure APIs with technologies like Node.js, Nest.js, and Express , always complementing these solutions with well-structured relational databases using PostgreSQL/Mysql, plus an ORM like Prisma/Sequelize to optimize the data flow. My English level is Upper Intermediate (B2) allowing me to communicate effectively with international teams. Beyond the technical, I am an analytical, creative and problem-solving oriented person. I enjoy challenges, because each one represents an opportunity to learn and grow, both professionally and personally.
 <br/>
 I am looking for a job in the IT market as a developer, which will allow me to continue growing in this beautiful world of programming 🚀.
-</h4>
+</h2>
 
 - 🌱 I’m currently learning **Redis**
 
-- 🔭 I’m currently working on [Properties Web scraper](https://github.com/TomasPerez1/property-scraper)
+- 🔭 I’m currently working on <a href="https://github.com/TomasPerez1/property-scraper" target="_blank">Properties Web scraper</a>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/__tomas_perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tomas_perez" height="30" width="40" /></a>
+<a href="https://instagram.com/__tomas_perez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tomas_perez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
