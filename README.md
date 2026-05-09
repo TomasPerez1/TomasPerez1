@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Tomás Pérez 👋</h1>
+<h1 align="center">Hola, qué  tal! 👋 Soy Tomás Pérez </h1>
 <h3 align="center">Full Stack Developer (Backend-oriented) · De Bariloche ❄️🌄, viviendo en CABA 🇦🇷</h3>
 
 <br/>
